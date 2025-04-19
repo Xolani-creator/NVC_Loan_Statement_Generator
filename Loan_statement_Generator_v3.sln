@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Loan_statement_Generator_v3", "Loan_statement_Generator_v3.pyproj", "{7AFB9930-8725-4EF1-B32E-9481E9E2DFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AFB9930-8725-4EF1-B32E-9481E9E2DFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AFB9930-8725-4EF1-B32E-9481E9E2DFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C512A0-EE14-4FB4-9925-5A7B02E392D8}
+	EndGlobalSection
+EndGlobal
